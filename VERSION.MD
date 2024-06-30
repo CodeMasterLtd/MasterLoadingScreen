@@ -1,6 +1,6 @@
 ## Version History
 
-### v1.0.0 - 2024-06-30
+### v1.0.0 - 30/06/2024 | 16:42
 - Initial release of the Code Master Loading Screen.
 - Added dynamic version fetching from GitHub.
 - Basic loading screen layout with rules and team sections.
